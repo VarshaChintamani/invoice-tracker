@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1400" viewBox="0 0 1800 1400">
+  <rect width="100%" height="100%" fill="#ffffff" />
+  <g fill="#111111" font-family="Arial, sans-serif">
+    <text x="110" y="140" font-size="58" font-weight="700">OAK AND PINE SERVICES LTD</text>
+    <text x="110" y="235" font-size="46" font-weight="700">TAX INVOICE</text>
+    <text x="110" y="350" font-size="42">Invoice Number: OPS-2026-0051</text>
+    <text x="110" y="435" font-size="42">Invoice Date: 12.10.2026</text>
+    <text x="110" y="520" font-size="42">Due Date: 26.10.2026</text>
+    <text x="110" y="685" font-size="42" font-weight="700">Description Qty Rate Amount</text>
+    <text x="110" y="770" font-size="42" xml:space="preserve">Data analysis 1 125.50 125.50</text>
+    <text x="110" y="855" font-size="42" xml:space="preserve">Monthly support 2 10.25 20.50</text>
+    <text x="110" y="1040" font-size="42">Subtotal: 146.00</text>
+    <text x="110" y="1125" font-size="42">GST (0%): 0.00</text>
+    <text x="110" y="1210" font-size="42" font-weight="700">Total Amount: 146.00</text>
+  </g>
+</svg>
